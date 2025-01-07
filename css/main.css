@@ -1,0 +1,72 @@
+body {
+  background-image: url('/img/Noita_bg.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  min-height: 100vh;
+  color: white;
+  font-family: Helvetica;
+}
+header {
+  text-align: center;
+}
+.logo {
+  max-height: 10vh;
+  width: auto;
+}
+nav {
+  font-size: large;
+  text-align: center;
+}
+.divider {
+  font-weight: 600;
+}
+th {
+  font-size: larger;
+}
+td {
+  font-size: larger;
+}
+.yes {
+  color: #dafdad;
+}
+.no {
+  color: #fdadad;
+}
+a {
+  color: #ffffff; 
+}
+a:hover {
+  color: #999999; 
+}
+.fotos {
+  max-height: 65vh;
+  width: auto;
+}
+video {
+  width: 50vw;
+}
+.adjust {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+main {
+  flex-grow: 1;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
